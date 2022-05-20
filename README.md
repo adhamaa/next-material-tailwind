@@ -4,8 +4,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Dependencies needed
 
-- ["@material-tailwind/react"](https://www.material-tailwind.com/docs/react/quick-start)
-- ["tailwindcss"](https://tailwindcss.com/docs/guides/nextjs) - must follow the nextjs steps to install tailwindcss
+- ["@material-tailwind/react"](https://www.material-tailwind.com/docs/react/quick-start) - follow the react quick start guide
+- ["tailwindcss"](https://tailwindcss.com/docs/guides/nextjs) - follow the nextjs steps to install tailwindcss
 - ["next-transpile-modules"](https://github.com/martpie/next-transpile-modules) - to transpile "@material-tailwind/react" modules
 
 ## Getting Started
